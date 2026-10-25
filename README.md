@@ -12,5 +12,5 @@
 ## My WebSite
 ![https://www.sicag.es](https://github.com/jconex/jconex/blob/main/blob/logoazultransparente.png)
 ## Take me With you
-!(https://github.com/jconex/jconex/blob/main/blob/qr-sicag.png)
+![https://www.sicag.es](https://github.com/jconex/jconex/blob/main/blob/qr-sicag.png)
 
