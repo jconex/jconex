@@ -1,4 +1,5 @@
-## Hi 👋 ![https://www.sicag.es](https://github.com/jconex/jconex/blob/main/blob/profile.jpeg) I'm Jconex, Carlos Almeida for my friends
+![https://www.sicag.es](https://github.com/jconex/jconex/blob/main/blob/profile.jpeg)
+## Hi 👋  I'm Jconex, Carlos Almeida for my friends
 ### Freelance PMO - CIBERSECURITY - IT CONSULTOR - FORENSIC - DEVSECOPS - SYSTEM ADMIN - CLOUD RESELLER AWS/GOOGLE/MICROSOFT
 
 ![GitHub Page](https://jconex.github.io)
